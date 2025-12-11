@@ -6,15 +6,15 @@
 
 body {
   font-family: system-ui, sans-serif;
-  background: #f5ebe0;
-  color: #3e2723;
+  background: #E8F1F8;
+  color: #1a4e77;
   display: flex;
   justify-content: center;
   padding: 40px 20px;
 }
 
 .container {
-  background: #fff;
+  background: #ffffff;
   max-width: 720px;
   width: 100%;
   padding: 24px 28px;
@@ -26,6 +26,7 @@ body {
 h1 {
   font-size: 2rem;
   margin-bottom: 8px;
+  color: #1a4e77;
   display: flex;
   align-items: center;
   gap: 8px;
@@ -33,7 +34,7 @@ h1 {
 
 .subtitulo {
   font-size: 0.95rem;
-  color: #6d4c41;
+  color: #5e6a71;
   margin-bottom: 20px;
 }
 
@@ -45,8 +46,8 @@ h1 {
 
 .badge {
   display: inline-block;
-  background: #ffcc80;
-  color: #4e342e;
+  background: #2bae66;
+  color: #ffffff;
   padding: 4px 10px;
   border-radius: 999px;
   font-size: 0.75rem;
@@ -61,26 +62,27 @@ ul {
 }
 
 .nota-tecnica {
-  background: #fff8e1;
-  border: 1px dashed #ffb74d;
+  background: #d6eaf5;
+  border: 1px dashed #1a4e77;
   padding: 10px 12px;
   border-radius: 10px;
   font-size: 0.85rem;
   margin-top: 10px;
-  color: #5d4037;
+  color: #1a4e77;
 }
 
 code {
-  background: #f3e5f5;
+  background: #cce4fe;
   padding: 2px 5px;
   border-radius: 4px;
   font-size: 0.85rem;
+  color: #1a4e77;
 }
 
 footer {
   margin-top: 18px;
   font-size: 0.8rem;
-  color: #8d6e63;
+  color: #5e6a71;
   border-top: 1px solid rgba(0,0,0,0.1);
   padding-top: 10px;
 }
